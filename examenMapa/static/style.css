@@ -1,0 +1,132 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Arial', sans-serif;
+}
+
+#contenedor {
+    display: flex;
+    height: 100%;
+}
+
+#barra-lateral {
+    width: 350px;
+    background: #002858; 
+    color: #FFC836;
+    overflow-y: auto;
+}
+
+#barra-lateral h1 {
+    background: #FFC836;
+    padding: 35px;
+    margin: -1em;
+    margin-bottom: 1em;
+    color: #002858;
+    text-align: center;
+    
+   
+}
+
+#lista-paradas-taxis {
+    list-style: none;
+    padding: 0;
+}
+
+#lista-paradas-taxis li {
+    background: #002858; 
+    margin-bottom: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+
+
+#mapa {
+    flex-grow: 1;
+}
+
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1000; 
+    left: 50%; 
+    top: 50%; 
+    transform: translate(-50%, -50%); 
+    width: auto; 
+    height: auto; 
+    background-color: white; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 4px; 
+}
+
+
+
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    text-align: center;
+}
+
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+
+
+
+
+.accesible {
+    display: inline-block;
+    background-color: #002858;
+    color: #FFC836;
+    padding: 0.5em;
+    margin: 0.5em 0;
+    border-radius: 2em;
+    font-size: 0.8em;
+    border: 3px  solid #FFC836;
+}
+
+
+
+
+
+#lista-paradas-taxis li.selected {
+    background: #FFC836; 
+    color: #002858;
+}
+
+.btn-mas-info {
+    display: none; 
+}
+
+#lista-paradas-taxis li.selected .btn-mas-info {
+    display: block;
+}
+
+.btn-mas-info {
+    background-color: #FFC836;
+    color: #002858;
+    padding: 0.5em;
+    margin: 0.5em 0;
+    border-radius: 2em;
+    font-size: 0.8em;
+    border: #002858 3px solid;
+}
+
+#lista-paradas-taxis li.selected .accesible {
+    display: inline-block;
+    background-color: #FFC836;
+    color: #002858;
+    padding: 0.5em;
+    margin: 0.5em 0;
+    border-radius: 2em;
+    font-size: 0.8em;
+    border: 3px  solid #002858
+}

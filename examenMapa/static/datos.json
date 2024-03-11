@@ -1,0 +1,3617 @@
+{
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "totalFeatures": 103,
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42502951,
+                    36.72056318,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PASILLO DE SANTA ISABEL, 6 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "20",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "4",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-96 MUSEO ARTE POPULARES",
+                "DESCRIPCION": "MUSEO DE ARTE POPULARES",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1166
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6a8"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.43956504,
+                    36.69963423,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE SOR TERESA PRAT, 15 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "40",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "8",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-84 TABACALERA",
+                "DESCRIPCION": "TABACALERA",
+                "HORARIOS": "de 08 h. a 22 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1156
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6a9"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.55374833,
+                    36.73845701,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE SEVERO OCHOA, 55 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "12",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "3",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-109 PARQUE TECNOLOGICO",
+                "DESCRIPCION": "PARQUE TECNOLOGICO",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1075
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6aa"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.43351177,
+                    36.7133702,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PASEO DE LOS TILOS, 1 ",
+                "ACCESOPMR": "Si",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "65",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "27",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-64 ESTACION DE AUTOBUSES",
+                "DESCRIPCION": "ESTACION DE AUTOBUSES, (BOLSA)",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1135
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6ab"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.45700553,
+                    36.71577432,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE DE SAINT-EXUP\u00c9RY, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "11",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "3",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-75 CARREFOUR ALAMEDA",
+                "DESCRIPCION": "CARREFOUR ALAMEDA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1146
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6ac"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.40190528,
+                    36.7215807,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PASEO DE SANCHA, 28 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "50",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "10",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-101 HOTELES LAS VEGAS",
+                "DESCRIPCION": "HOTELES: LAS VEGAS, LOS NARANJOS Y CLINICA EL PILAR",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1069
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6ad"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.43601546,
+                    36.72301274,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE SAN SEBASTI\u00c1N, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "50",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "10",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-18 AVD. SAN SEBASTIAN",
+                "DESCRIPCION": "ESQ. EUGENIO GROSS",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1085
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6ae"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42652763,
+                    36.7182152,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE SAN JACINTO, 2 ",
+                "ACCESOPMR": "Si",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "15",
+                        "Vehiculos_accesibles": "Si",
+                        "Capacidad_vehiculos": "5",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-100 HOTEL NH",
+                "DESCRIPCION": "HILERAS, PUENTE DE LA ESPERANZA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1068
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6af"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4146083,
+                    36.7268975,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PLAZA DE LA VICTORIA, 10 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "40",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "8",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-62 PLAZA LA VICTORIA",
+                "DESCRIPCION": "ESQ. ALTOZANO",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1133
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6b0"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.44095387,
+                    36.7182189,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE VIRGEN DE LA PALOMA, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "25",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "5",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-56 CARRANQUE",
+                "DESCRIPCION": "GERENCIA URBANISMO (C/ PALESTINA)",
+                "HORARIOS": "de 08 h. a 22 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1126
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6b1"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42136155,
+                    36.73812077,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE NUESTRA SE\u00d1ORA DE LAS GU\u00cdAS, 4 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "15",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "3",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-16 PARQUE DEL SUR",
+                "DESCRIPCION": "ESQ. SINAI, PARQUE DEL SUR",
+                "HORARIOS": "de 08 h. a 22 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1083
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6b2"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.45767988,
+                    36.68533298,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE VILLANUEVA DEL ROSARIO, 14 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "15",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "3",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-76 PRICA LOS PATIOS",
+                "DESCRIPCION": "PRICA LOS PATIOS",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1147
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6b3"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.44174519,
+                    36.69240868,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE PAC\u00cdFICO, 42 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "35",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "7",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-98 PACIFICO (HOTEL VINCCI)",
+                "DESCRIPCION": "DIAMANTINO GARCIA ACOSTA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1168
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6b4"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4396026,
+                    36.73037161,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE MIRACLAVELES, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "28",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "7",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-48 MIRAFLORES",
+                "DESCRIPCION": "NTRA. SRA. DE LOS CLARINES N\u00ba 7-BAD. MIRAFLORES",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1117
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6b5"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41766389,
+                    36.72285263,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PLAZA DE LA MERCED, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "75",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "15",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-61 PLAZA DE LA MERCED",
+                "DESCRIPCION": "ESQ. C/ GRANADA",
+                "HORARIOS": "Compartida 24 Horas (11-T) y de 14 h. a 08,00 horas (4-T mas)",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1132
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6b6"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.45973437,
+                    36.66321936,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE MOBY DICK, 2 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "15",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "3",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-34 GUADALMAR",
+                "DESCRIPCION": "ESQ. HESPERIDES (HOTEL GUADALMAR)",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1102
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6b7"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.47646787,
+                    36.72434349,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE NAVARRO LEDESMA, 231 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "15",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "3",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-105 NAVARRO LEDESMA",
+                "DESCRIPCION": "ANDROMEDA",
+                "HORARIOS": "de 07 h. a 18 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1071
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6b8"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.51673273,
+                    36.7218631,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "DISEMINADO CEMENTERIO SAN GABRIEL, 2 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "36",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "6",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-50 PARQUE CEMENTERIO",
+                "DESCRIPCION": "PARQUE CEMENTERIO",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1120
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6b9"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.44372791,
+                    36.72386933,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE MAGISTRADO SALVADOR BARBER\u00c1, 7 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "10",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "4",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-45 NUEVA MALAGA",
+                "DESCRIPCION": "BDA. NUEVA MALAGA",
+                "HORARIOS": "de 08 h. a 22 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1114
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6ba"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41142728,
+                    36.71986069,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE MAESTRANZA, 2 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "75",
+                        "Vehiculos_accesibles": "Si",
+                        "Capacidad_vehiculos": "15",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-44 MAESTRANZA",
+                "DESCRIPCION": "ESQ. CANOVAS DEL CASTILLO",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1113
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6bb"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4733956,
+                    36.71413929,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE DE JIM\u00c9NEZ FRAUD, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "35",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "7",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-38 INTERIOR CLINICO",
+                "DESCRIPCION": "HOSPITAL CLINICO",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1106
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6bc"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.47479871,
+                    36.71565141,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE DE JIM\u00c9NEZ FRAUD, 3 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "75",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "15",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-37 EXTERIOR CLINICO",
+                "DESCRIPCION": "JUNTO EOLO",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1105
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6bd"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42750421,
+                    36.71032738,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE JACINTO VERDAGUER, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "12",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "4",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-8 GERENCIA URBANISMO",
+                "DESCRIPCION": "PASEO DE ANTONIO MACHADO",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1151
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6be"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.43154813,
+                    36.73384274,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE LUIS BU\u00d1UEL, 12 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "45",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "9",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-14 ROSALEDA",
+                "DESCRIPCION": "JUNTO CENTRO COMERCIAL ROSALEDA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1081
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6bf"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.44680542,
+                    36.69110382,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE LUIS BARAHONA DE SOTO, 18 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "28",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "6",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-43 SANTA PAULA",
+                "DESCRIPCION": "AVD. DE LOS GUINDOS",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1112
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6c0"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.45800616,
+                    36.68414117,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA IMPERIO ARGENTINA, 1 ",
+                "ACCESOPMR": "Si",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "40",
+                        "Vehiculos_accesibles": "Si",
+                        "Capacidad_vehiculos": "13",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-87 QUIR\u00d3N",
+                "DESCRIPCION": "ALTURA MERCADODA Y HOSPITAL QUIR\u00d3N",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1158
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6c1"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42488548,
+                    36.71247129,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE MANUEL AGUST\u00cdN HEREDIA, 32 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "40",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "8",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-81 CHARE",
+                "DESCRIPCION": "C.H.A.R.E.",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1153
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6c2"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42154282,
+                    36.71595827,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE MANUEL AGUST\u00cdN HEREDIA, 8 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "35",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "7",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-15 MANUEL AGUSTIN HEREDIA",
+                "DESCRIPCION": "ESQ. CORDOBA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1082
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6c3"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42655798,
+                    36.72174517,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE M\u00c1RMOLES, 6 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "20",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "4",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-97 HOTEL M\u00c1LAGA CENTRO",
+                "DESCRIPCION": "PADRE MIGUEL SANCHEZ",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1167
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6c4"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.46489964,
+                    36.70721861,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE MAX ESTRELLA, 14 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "30",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "6",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-89 JEFATURA DE TRAFICO",
+                "DESCRIPCION": "JEFATURA DE TRAFICO (NUEVA SEDE)",
+                "HORARIOS": "de 08 h. a 18,00 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1159
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6c5"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.53811114,
+                    36.72314978,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE DE MATISSE, 4 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "20",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "4",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-46 CAMPANILLAS",
+                "DESCRIPCION": "ESQ. JOSE CALDERON",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1115
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6c6"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42646248,
+                    36.71481114,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PASILLO DEL MATADERO, 15 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "20",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "4",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-83 PASILLO MATADERO (HOTEL GUADALMEDINA)",
+                "DESCRIPCION": "HOTEL GUADALMEDINA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1155
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6c7"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.45185056,
+                    36.70063124,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE PUERTO ONCALA, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "18",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "4",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-52 SAN ANDRES",
+                "DESCRIPCION": "ESQ. AVDA. EUROPA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1122
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6c8"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.40748226,
+                    36.72107347,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PASEO DE REDING, 53 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "20",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "4",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-110 HOTEL NH",
+                "DESCRIPCION": "FRENTE, HOTEL MIRAMAR",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1077
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6c9"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.44736598,
+                    36.73110964,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE PEDRO SALINAS, 9 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "15",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "3",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-7 CARLINDA",
+                "DESCRIPCION": "BDA. CARLINDA (CENTRO DE SALUD)",
+                "HORARIOS": "de 08 h. a 22 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1141
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6ca"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.46038323,
+                    36.71965679,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PLAZA DEL PINTOR SANDRO BOTTICELLI, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "13",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "6",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-47 FUENTE DE COLORES",
+                "DESCRIPCION": "AVDA. JOSE LUIS BORGES",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1116
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6cb"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.39721757,
+                    36.72312889,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DEL PINTOR JOAQU\u00cdN SOROLLA, 4 ",
+                "ACCESOPMR": "Si",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "55",
+                        "Vehiculos_accesibles": "Si",
+                        "Capacidad_vehiculos": "11",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-17 PARQUE SAN ANTONIO",
+                "DESCRIPCION": "JUNTO PARQUE SAN ANTONIO",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1084
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6cc"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.44784229,
+                    36.69773149,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE FRIGILIANA, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "25",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "5",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-32 FRIGILIANA",
+                "DESCRIPCION": "ESQ. AVDA. VELAZQUEZ",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1100
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6cd"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42888232,
+                    36.71722818,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE ANDALUC\u00cdA, 6 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "75",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "15",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-3 CORTE INGLES",
+                "DESCRIPCION": "JUNTO CORTE INGLES, (BOLSA)",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1097
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6ce"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42243562,
+                    36.71798258,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "ALAMEDA PRINCIPAL, 12 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "45",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "9",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-2 CAFARENA",
+                "DESCRIPCION": "ESQ. PUERTA DEL MAR - modificaci\u00f3n por obras",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1087
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6cf"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.36129335,
+                    36.72095442,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE LA ESTACI\u00d3N DE EL PALO, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "55",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "11",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-9 EL PALO",
+                "DESCRIPCION": "ESQ. AVDA. JUAN SEBASTIAN ELCANO EL PALO",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1160
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6d0"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4140012,
+                    36.70815529,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PASEO DE LA FAROLA, 21 ",
+                "ACCESOPMR": "Si",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "36",
+                        "Vehiculos_accesibles": "Si",
+                        "Capacidad_vehiculos": "6",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-82 MUELLE DE LEVANTE PMR",
+                "DESCRIPCION": "MUELLE DE LEVANTE TERMINAL A Y B (PMR)",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1154
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6d1"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41421604,
+                    36.70608576,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PASEO DE LA FAROLA, 21 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "52",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "21",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-66 MUELLE DE LEVANTE-2",
+                "DESCRIPCION": "MUELLE DE LEVANTE TERMINAL A Y B",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1137
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6d2"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.43126999,
+                    36.71188994,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE EXPLANADA DE LA ESTACI\u00d3N, 3 ",
+                "ACCESOPMR": "Si",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "105",
+                        "Vehiculos_accesibles": "Si",
+                        "Capacidad_vehiculos": "75",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-31 EXPLANADA DE LA ESTACI\u00d3N-VIALIA",
+                "DESCRIPCION": "RENFE, (BOLSA)",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1099
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6d3"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4319528,
+                    36.73774915,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE DEVA, 3 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "20",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "4",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-30 LA PALMA",
+                "DESCRIPCION": "ESQ. DUERO",
+                "HORARIOS": "de 08 h. a 22 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1098
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6d4"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.47757581,
+                    36.71930541,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE DE DEM\u00d3STENES, 8 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "15",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "6",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-92 CLINICO URGENCIAS",
+                "DESCRIPCION": "INTERIOR CLINICO URGENCIAS",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1163
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6d5"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.48610442,
+                    36.69209979,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE CASTELAO, 4 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "21",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "7",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-25 CASTELAO",
+                "DESCRIPCION": "ESQ. CTRA. AZUCARERA-INTELHORCE",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1093
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6d6"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.45822044,
+                    36.70815068,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE JOS\u00c9 ORTEGA Y GASSET, 201 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "45",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "15",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-67 PALACIO DE FERIAS Y CONGRESOS",
+                "DESCRIPCION": "AVDA. JOSE ORTEGA Y GASSET",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1138
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6d7"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.45221639,
+                    36.71014243,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE JOS\u00c9 ORTEGA Y GASSET, 70 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "35",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "7",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-11 AVD. JOSE ORTEGA Y GASSET",
+                "DESCRIPCION": "ESQ. CORREGIDOR FRANCISCO DE MOLINA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1076
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6d8"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.44827388,
+                    36.72310315,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE DEL CIPR\u00c9S, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "91",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "20",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-74 CARLOS HAYA",
+                "DESCRIPCION": "AVIDA. CARLOS HAYA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1145
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6d9"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.38156389,
+                    36.72615397,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PASEO CERRADO DE CALDER\u00d3N, 18 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "40",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "8",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-63 CERRADO DE CALDERON",
+                "DESCRIPCION": "ESQ. ANDALUCES",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1134
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6da"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.48269369,
+                    36.67222536,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DEL COMANDANTE GARC\u00cdA MORATO, 3 ",
+                "ACCESOPMR": "Si",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "24",
+                        "Vehiculos_accesibles": "Si",
+                        "Capacidad_vehiculos": "4",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-94 AEROPUERTO MALAGA T3 LLEGADAS P.M.R.",
+                "DESCRIPCION": "AEROPUERTO T3 LLEGADAS PMR",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1165
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6db"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.48054268,
+                    36.6713499,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DEL COMANDANTE GARC\u00cdA MORATO, 1 ",
+                "ACCESOPMR": "Si",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "140",
+                        "Vehiculos_accesibles": "Si",
+                        "Capacidad_vehiculos": "40",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-91 AEROPUERTO MALAGA T3 LLEGADAS",
+                "DESCRIPCION": "AEROPUERTO T3 LLEGADAS",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1162
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6dc"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.48568105,
+                    36.67373183,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DEL COMANDANTE GARC\u00cdA MORATO, 5 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "48",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "16",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-90 AEROPUERTO MALAGA T3 SALIDA",
+                "DESCRIPCION": "AEROPUERTO T3 SALIDAS",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1161
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6dd"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.48768046,
+                    36.67544231,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DEL COMANDANTE GARC\u00cdA MORATO, 58 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "30",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "150",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-69 BOLSA  AEROPUERTO",
+                "DESCRIPCION": "AEROPUERTO BOLSA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1140
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6de"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.48751862,
+                    36.67479679,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DEL COMANDANTE GARC\u00cdA MORATO, 7 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "36",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "12",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-53 AEROPUERTO MALAGA T2 (NIVEL 7)",
+                "DESCRIPCION": "AEROPUERTO T2",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1123
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6df"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41995083,
+                    36.72145725,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE DUQUE DE LA VICTORIA, 2 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "40",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "8",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-80 DUQUE DE LA VICTORIA",
+                "DESCRIPCION": "ESQ. PLAZA DEL SIGLO",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1152
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6e0"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.47454871,
+                    36.64820986,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CAMINO CIZA\u00d1A, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "35",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "12",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-79 LA CIZA\u00d1A",
+                "DESCRIPCION": "GUADALMAR",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1150
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6e1"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41917997,
+                    36.72076935,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE C\u00cdSTER, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "120",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "20",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-99 CISTER, (NOCTURNA)",
+                "DESCRIPCION": "CATEDRAL. (AUTORIZADA SIN SE\u00d1ALIZAR)",
+                "HORARIOS": "de 00:00 h.a 06:00 Horas. Fines de Semanas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1169
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6e2"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41946418,
+                    36.71896431,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE CORTINA DEL MUELLE, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "100",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "20",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-49 MALAGA PALACIO",
+                "DESCRIPCION": "HOTEL MALAGA PALACIO",
+                "HORARIOS": "Parada Compartida, Dos horarios de 24 horas (14-T) y Carga y Descarga 08:00 h. A 11:00 h. (6-T)",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1118
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6e3"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.45115083,
+                    36.71659674,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE CORREGIDOR NICOL\u00c1S ISIDRO, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "40",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "8",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-27 PORTADA ALTA",
+                "DESCRIPCION": "ESQ. CORREGIDOR JOSE VICIANA - Con marquesina en cabecera de la parada",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1095
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6e4"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.45280914,
+                    36.71509459,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE CORREGIDOR NICOL\u00c1S ISIDRO, 14 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "10",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "2",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-111 CLINICA EL \u00c1NGEL",
+                "DESCRIPCION": "CL\u00cdNICA EL ANGEL",
+                "HORARIOS": "de 09 h. a 20,00 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1078
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6e5"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42234935,
+                    36.71733925,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE C\u00d3RDOBA, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "50",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "10",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-26 CORDOBA",
+                "DESCRIPCION": "ESQ. ALAMEDA PRINCIPAL",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1094
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6e6"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41909175,
+                    36.71763064,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PASEO DE LOS CURAS, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "20",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "6",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-104 PUERTO ENTRADA PRINCIPAL",
+                "DESCRIPCION": "ENTRADA PRINCIPAL, PUERTO MALAGA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1070
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6e7"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.44041672,
+                    36.71196486,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PLAZA CRUZ DE HUMILLADERO, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "30",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "12",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-57 CRUZ HUMILLADERO",
+                "DESCRIPCION": "ESQ. PASEO DE LOS TILOS",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1127
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6e8"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42361959,
+                    36.72671831,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE CRUZ DEL MOLINILLO, 18 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "40",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "8",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-28 CRUZ DEL MOLINILLO",
+                "DESCRIPCION": "ESQ. OLLERIAS",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1096
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6e9"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42322587,
+                    36.74483827,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE CRONISTA MADRID MU\u00d1OZ, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "20",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "4",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-86 SAGRADA FAMILIA",
+                "DESCRIPCION": "ESQ. MARQUESA DE MONTEZUMA",
+                "HORARIOS": "de 08 h. a 22 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1157
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6ea"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.35333951,
+                    36.72002317,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE JULIO G\u00d3MEZ, 10 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "11",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "4",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-40 JULIO GOMEZ",
+                "DESCRIPCION": "ESQ. ALMERIA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1109
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6eb"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.44639981,
+                    36.71233286,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE JUAN XXIII, 74 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "30",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "6",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-12 BARBARELA",
+                "DESCRIPCION": "FERNANDEZ FERMINA N\u00ba 45",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1079
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6ec"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.45471485,
+                    36.70506973,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE JUAN GRIS, 3 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "15",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "3",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-39 CORTIJO DE TORRES",
+                "DESCRIPCION": "AVD. NEHEMIAS, EL COPO",
+                "HORARIOS": "de 08 h. a 22 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1107
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6ed"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42085868,
+                    36.71831644,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PLAZA DE LA MARINA, 2 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "70",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "14",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-36 PLAZA DE LA MARINA",
+                "DESCRIPCION": null,
+                "HORARIOS": "de 11:00 h. a 07:00 horas y de 24 horas los festivos",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1104
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6ee"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41944041,
+                    36.71606789,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PLAZA DE LA MARINA, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "50",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "10",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-93 MELILLERO",
+                "DESCRIPCION": "ENTRADA PRINCIPAL, PUERTO MALAGA MELILLERO",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1164
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6ef"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42107049,
+                    36.71836028,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PLAZA DE LA MARINA, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "68",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "29",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-60 PLAZA DE LA MARINA",
+                "DESCRIPCION": "ESQ. MARQUES DE LARIOS",
+                "HORARIOS": "Dos horarios de 24 horas (14-T) y Bolsa 0:00 h. A 06:00 h. (15-T)",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1131
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6f0"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.45969491,
+                    36.70988925,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE HAMLET, 3 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "20",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "4",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-20 HIPERCOR",
+                "DESCRIPCION": "CENTRO COMERCIAL HIPERCOR",
+                "HORARIOS": "de 08 h. a 22 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1088
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6f1"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.44887467,
+                    36.68822029,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE GREGORIO DIEGO, 48 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "10",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "2",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-35 AMBULATORIO PUERTA BLANCA",
+                "DESCRIPCION": "AMBULATORIO PUERTA BLANCA",
+                "HORARIOS": "de 08 h. a 22 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1103
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6f2"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42998048,
+                    36.72681181,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PLAZA DEL HOSPITAL CIVIL, 8 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "25",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "10",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-58 PLAZA HOSPITAL CIVIL",
+                "DESCRIPCION": "ESQ. AVDA DR. GALVEZ GINACHERO",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1128
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6f3"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.46743171,
+                    36.69107146,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE HERMAN HESSE, 15 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "18",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "6",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-107 ESCANDALO",
+                "DESCRIPCION": "DIDEROT pr\u00f3xima instalaci\u00f3n",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1073
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6f4"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.45569209,
+                    36.69782562,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE ISAAC PERAL, 2 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "26",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "10",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-10 ISAAC PERAL",
+                "DESCRIPCION": "ESQ. AVDA.. EUROPA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1067
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6f5"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.50274758,
+                    36.66971397,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "PLAZA DE LA INMACULADA, 7 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "15",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "5",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-59 CHURRIANA",
+                "DESCRIPCION": "ESQ. PSO. GRICE HUTCHINSON",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1129
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6f6"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.46091434,
+                    36.69091998,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE HORACIO QUIROGA, 33 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "20",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "4",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-106 HOTEL IBIS VELAZQUEZ",
+                "DESCRIPCION": "EDUARDO TOLDRA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1072
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6f7"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.46128842,
+                    36.71482736,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE FISCAL LUIS PORTERO GARC\u00cdA, 10 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "70",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "14",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-78 CIUDAD DE LA JUSTICIA",
+                "DESCRIPCION": "CIUDAD DE LA JUSTICIA",
+                "HORARIOS": "de 08 h. a 22 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1149
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6f8"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42166816,
+                    36.74965552,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE ALCALDE JOAQU\u00cdN QUILES, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "32",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "11",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-21 JARDIN DE MALAGA",
+                "DESCRIPCION": "BDA. JARDIN DE MALAGA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1089
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6f9"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.47861379,
+                    36.65601484,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE ALFONSO PONCE DE LE\u00d3N, 3 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "35",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "7",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-54 PLAZA MAYOR",
+                "DESCRIPCION": "CENTRO DE OCIO, PLAZA MAYOR",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1124
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6fa"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.43606293,
+                    36.70487644,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE TOM\u00c1S ECHEVERR\u00cdA, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "40",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "12",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-72 TOMAS ECHEVERRIA",
+                "DESCRIPCION": "ESQ. AYALA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1143
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6fb"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41967905,
+                    36.72386729,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE \u00c1LAMOS, 19 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "30",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "6",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-41 ALAMOS",
+                "DESCRIPCION": "ESQ. C/ CARCER",
+                "HORARIOS": "Compartida 24 Horas (3-T) y de 14 h. a 09,00 horas (3-T mas)",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1110
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6fc"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4743331,
+                    36.69903966,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CAMINO DE LOS PRADOS, 18 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "15",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "3",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-33 LOS PRADOS",
+                "DESCRIPCION": "ESQ. TELEMAN",
+                "HORARIOS": "de 08 h. a 22 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1101
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6fd"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4595704,
+                    36.68214643,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE MIGUEL DE M\u00c9RIDA NICOLICH, 2 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "60",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "12",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-55 MARTIN CARPENA",
+                "DESCRIPCION": "PALACIO DE DEPORTES \"MARTIN CARPENA\"",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1125
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6fe"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.45914537,
+                    36.70212865,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE LAS MALAGUE\u00d1AS, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "35",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "7",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-70 RASTRO",
+                "DESCRIPCION": "REAL DE LA FERIA, RASTRO DE LOS DOMINGOS",
+                "HORARIOS": "de 08 h. a 16 horas Domingos",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1142
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_6ff"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.45979488,
+                    36.68912835,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE VEL\u00c1ZQUEZ, 126 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "11",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "4",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-68 HOTEL HILTON",
+                "DESCRIPCION": "GREGORIO ALEGRI",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1139
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_700"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.45063171,
+                    36.69570699,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE VEL\u00c1ZQUEZ, 63 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "55",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "11",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-19 LA PAZ",
+                "DESCRIPCION": "ESQ. JUAN SEBASTIAN BACH",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1086
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_701"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.45046995,
+                    36.72270719,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA CARLOS DE HAYA, 81 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "20",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "4",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-51 CARLOS HAYA URGENCIA",
+                "DESCRIPCION": "JUNTO OPENCOR",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1121
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_702"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.41618525,
+                    36.73294805,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "ALAMEDA DE CAPUCHINOS, 96 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "45",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "9",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-1 OLLETAS",
+                "DESCRIPCION": "ESQ. PL. OLLETAS",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1066
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_703"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.46983754,
+                    36.73131069,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE LOPE DE VEGA, 25 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "12",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "3",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-13 ATABAL",
+                "DESCRIPCION": "AVDA. DEL ATABAL",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1080
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_704"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.37167406,
+                    36.72218837,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE \u00c1NGEL GUIMER\u00c1, 1 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "25",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "5",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-22 ANGEL GUIMERA",
+                "DESCRIPCION": "ESQ. AVDA. JUAN SEBASTIAN ELCANO",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1090
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_705"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.48103676,
+                    36.73825484,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE ANDERSEN, 2 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "30",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "6",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-42 PUERTO DE LA TORRE",
+                "DESCRIPCION": "ESQ. L\u00d3PEZ RUEDA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1111
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_706"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42892617,
+                    36.72147539,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE ARMENGUAL DE LA MOTA, 38 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "25",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "5",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-73 ARMENGUAL DE LA MOTA",
+                "DESCRIPCION": "ESQ. MARMOLES",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1144
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_707"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4836365,
+                    36.72326293,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE ARIST\u00d3FANES, 2 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "18",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "3",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-23 CONSUL",
+                "DESCRIPCION": "ESQ. NAVARRO LEDESMA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1091
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_708"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4356257,
+                    36.70292816,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE DE ANTONIO SOLER, 13 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "25",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "5",
+                        "Mobiliario": "T\u00d3TEM"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-108 SOLIVA",
+                "DESCRIPCION": "ROTONDA",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1074
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_709"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.43606725,
+                    36.71586566,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE LA AURORA, 49 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "15",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "3",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-77 EDIFICIO MULTIPLE",
+                "DESCRIPCION": "EDIFICIO MULTIPLE",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1148
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_70a"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.43156575,
+                    36.71617477,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DE LA AURORA, 21 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "50",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "10",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-6 LARIOS",
+                "DESCRIPCION": "JUNTO CENTRO COMERCIAL LARIOS",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1130
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_70b"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.42380044,
+                    36.71822856,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "CALLE ATARAZANAS, 13 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "37",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "7",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-24 ATARAZANAS",
+                "DESCRIPCION": "ESQ. TORREGORDA",
+                "HORARIOS": "de 10 h. a 05,00 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1092
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_70c"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.43234896,
+                    36.72915342,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DEL ARROYO DE LOS \u00c1NGELES, 56 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "55",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "11",
+                        "Mobiliario": "BANDEROLA"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-5 MATERNO INFANTIL",
+                "DESCRIPCION": "JUNTO HOSPITAL MATERNO INFANTIL",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1119
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_70d"
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.43185818,
+                    36.72860265,
+                    0
+                ]
+            },
+            "geometry_name": "SDOGEOMETRIA",
+            "type": "Feature",
+            "properties": {
+                "TITULARIDAD": "MUNICIPAL",
+                "URL": null,
+                "PRECIOS": null,
+                "DIRECCION": "AVENIDA DEL ARROYO DE LOS \u00c1NGELES, 31 ",
+                "ACCESOPMR": "No",
+                "INFOESP": [
+                    {
+                        "Longitud_parada": "20",
+                        "Vehiculos_accesibles": "No",
+                        "Capacidad_vehiculos": "4",
+                        "Mobiliario": "Ninguno"
+                    }
+                ],
+                "TARJETAJOVEN": "No",
+                "NOMBRE": "PT-4 HOSPITAL CIVIL",
+                "DESCRIPCION": "AVDA. ARROYO DE LOS ANGELES",
+                "HORARIOS": "24 horas",
+                "CONTACTO": null,
+                "EMAIL": null,
+                "ID": 1108
+            },
+            "id": "da_transporte_paradasTaxi.fid--7993a933_164a0705e4c_70e"
+        }
+    ]
+}
